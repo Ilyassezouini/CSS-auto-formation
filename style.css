@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+}
+
+header nav ul li{
+    flex: 0 0 100px;
+    background-color:rgb(196, 125, 103);
+    margin: 3px;
+    padding: 0 4px;
+}
+
+aside{
+    background-color: rgb(120, 175, 207);
+}
+
+footer{
+    background-color: black;
+    color: rgb(228, 215, 199);
+}
